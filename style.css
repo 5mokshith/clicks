@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+    background-color: silver;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+button{
+    text-align: center;
+    width: 80px;
+    height: 60px;
+    border-radius: 15px;
+    background-image: none;
+    
+}
+
+#Increase{
+    background-color: rgb(98, 86, 99);
+    width: 220px;
+    height: 120px;
+}
+/* #decrease{
+    background-color: red;
+} */
+#reset{
+    background-color: rgb(143, 143, 73);
+}
+div{
+    font-size: 30px;
+}
+
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        left: 50%; /* Use left at 50% to center horizontally */
+        transform: translateX(-50%); /* Translate the footer back by 50% of its own width */
+    }
+    
+
+
